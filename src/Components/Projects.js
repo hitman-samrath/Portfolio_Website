@@ -8,7 +8,7 @@ const Projects = () => {
         <div className="text8">My Projects</div>
         <div className="text5"><span className="extra2">— </span>My Work<span className="extra2"> —</span></div>
         <div className="blocks">
-            <a href="https://hitman-samrath.github.io/Portfolio-Website1/new.html" target="_blank">
+            <a href="https://hitman-samrath.github.io/BreakingBadWiki/" target="_blank">
                 <div className="block1">
                     <img className="proj1" src={breakingbad}/>
                     <div className="text9">Breaking Bad Wiki</div>
